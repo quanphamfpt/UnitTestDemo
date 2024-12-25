@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A69F3BF4-1999-4192-ABDA-0C1ED995F04C}|WorkWithNumber.vcxproj|D:\\Fresher C\u002B\u002B 2024\\C\u002B\u002B\\WorkWithNumber\\WorkWithNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A69F3BF4-1999-4192-ABDA-0C1ED995F04C}|WorkWithNumber.vcxproj|solutionrelative:WorkWithNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69F3BF4-1999-4192-ABDA-0C1ED995F04C}|WorkWithNumber.vcxproj|D:\\Fresher C\u002B\u002B 2024\\C\u002B\u002B\\WorkWithNumber\\GoogleTestDemo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A69F3BF4-1999-4192-ABDA-0C1ED995F04C}|WorkWithNumber.vcxproj|solutionrelative:GoogleTestDemo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +42,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoogleTestDemo.h",
+              "DocumentMoniker": "D:\\Fresher C\u002B\u002B 2024\\C\u002B\u002B\\WorkWithNumber\\GoogleTestDemo.h",
+              "RelativeDocumentMoniker": "GoogleTestDemo.h",
+              "ToolTip": "D:\\Fresher C\u002B\u002B 2024\\C\u002B\u002B\\WorkWithNumber\\GoogleTestDemo.h*",
+              "RelativeToolTip": "GoogleTestDemo.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-25T08:14:55.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WorkWithNumber.cpp",
               "DocumentMoniker": "D:\\Fresher C\u002B\u002B 2024\\C\u002B\u002B\\WorkWithNumber\\WorkWithNumber.cpp",
               "RelativeDocumentMoniker": "WorkWithNumber.cpp",
               "ToolTip": "D:\\Fresher C\u002B\u002B 2024\\C\u002B\u002B\\WorkWithNumber\\WorkWithNumber.cpp",
               "RelativeToolTip": "WorkWithNumber.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-25T06:59:14.91Z",
+              "WhenOpened": "2024-12-25T08:12:51.849Z",
               "EditorCaption": ""
             }
           ]

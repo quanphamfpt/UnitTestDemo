@@ -2,7 +2,7 @@
 #include <cmath>
 #include <cassert>
 #include <gtest/gtest.h>
-//#define TEST_MODE
+#define TEST_MODE
 
 using namespace std;
 
@@ -107,36 +107,36 @@ int main() {
 #else
 // Main program (without tests)
 
-//int main() {
-//
-//    cout << "Not in Test Mode" << endl;
-//
-//    int n1 = 29;
-//
-//    Number number1(n1);
-//    if (number1.isPrime()) {
-//        cout << n1 << " is a prime number." << endl;
-//    }
-//    else {
-//        cout << n1 << " is not a prime number." << endl;
-//    }
-//
-//    int n2 = 1234;
-//    Number number2(n2);
-//    cout << "The sum of the digits of " << n2 << " is: " << number2.sumOfDigits() << endl;
-//
-//    int n3 = 28;
-//    Number number3(n3);
-//    if (number3.isPerfectNumber()) {
-//        cout << n3 << " is a perfect number." << endl;
-//    }
-//    else {
-//        cout << n3 << " is not a perfect number." << endl;
-//    }
-//
-//    int a = 56, b = 98;
-//    cout << "The Greatest Common Divisor of " << a << " and " << b << " is: " << Number::gcd(a, b) << endl;
-//
-//    return 0;
-//}
+int main() {
+
+    cout << "Not in Test Mode" << endl;
+
+    int n1 = 29;
+
+    Number number1(n1);
+    if (number1.isPrime()) {
+        cout << n1 << " is a prime number." << endl;
+    }
+    else {
+        cout << n1 << " is not a prime number." << endl;
+    }
+
+    int n2 = 1234;
+    Number number2(n2);
+    cout << "The sum of the digits of " << n2 << " is: " << number2.sumOfDigits() << endl;
+
+    int n3 = 28;
+    Number number3(n3);
+    if (number3.isPerfectNumber()) {
+        cout << n3 << " is a perfect number." << endl;
+    }
+    else {
+        cout << n3 << " is not a perfect number." << endl;
+    }
+
+    int a = 56, b = 98;
+    cout << "The Greatest Common Divisor of " << a << " and " << b << " is: " << Number::gcd(a, b) << endl;
+
+    return 0;
+}
 #endif
